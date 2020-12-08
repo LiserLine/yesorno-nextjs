@@ -20,7 +20,7 @@ const About = () => {
           <p className={styles.description}>
             Tired of picking the wrong choice? Tired of humans giving you the answer? Tired of having to take off heads or tails?
             <br />
-            <strong>Then, this app is your solution!.</strong>
+            <strong>Then, this app is your solution!</strong>
             <br/>
             <img src="https://media.giphy.com/media/DffShiJ47fPqM/giphy.gif" />
 
@@ -32,7 +32,7 @@ const About = () => {
             We also provide this service for free, beign available 365 days per year without interruption*!
             <br />
             <br />
-            <strong><em>Stop having problems caused by human decisions. Go with "YES OR NO?"!.</em></strong>
+            <strong><em>Stop having problems caused by human decisions. Go with "YES OR NO?"!</em></strong>
           </p>
 
           <h6><em>*For tech people, this is equal to 100% SLA</em></h6>
