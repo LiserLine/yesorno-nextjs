@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # "YES OR NO?"
 
-Want a YES or NO answer? Get into the app to discover [APPLINK]
+Want a YES or NO answer? Get into the app to discover -> [YES or NO?](https://yesorno-app.vercel.app)
 
 ## About
 
