@@ -41,19 +41,22 @@ const Home = () => {
         <title>YES OR NO?</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      
 
       <div className={answer === '-' ? styles.noneContainer : (answer === 'YES' ? styles.yesContainer : styles.noContainer)}>
+      
         <main className={styles.main}>
           <h1 className={styles.title}>
             YES OR NO?
         </h1>
+        <a href="/about">About</a>
 
           <p className={styles.description}>
             Press the button to get your answer!
         </p>
 
           <div>
-            <button className={styles.btn} onClick={getAnswer} disabled={isGettingAnswer}>GET MY ANSWER!</button>
+            <button className={styles.btn} onClick={getAnswer}>GET MY ANSWER!</button>
           </div>
 
           <div>
